@@ -1,0 +1,5 @@
+client timestamp,button,state,x,y
+client timestamp,button,state,x,y
+client timestamp,button,state,x,
+yclient timestamp,button,state,x,y
+client timestamp,button,state,x,y
